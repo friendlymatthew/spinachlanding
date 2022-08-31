@@ -36,7 +36,7 @@ export default function Team() {
 							linkedin,
 						}) => {
 							return (
-								<div className="p-8">
+								<div className="p-8" key={name}>
 									<div className="flex space-x-4 items-end">
 										<div className="text-xl">{name}</div>
 										<div>From {hometown}</div>

@@ -11,13 +11,13 @@ export default function Hero() {
 						The perfect spinach for every season.
 					</div>
 					<div className="text-xl text-center tracking-tighter pt-4 pb-12">
-						We’ve created an intelligent automated indoor grow system to bring
-						you deliciously fresh spinach all year long. Our organic growing
-						practices are grounded in data you can access and trust, as we
-						adjust the growth conditions to produce the perfect spinach from
-						every seed. We empower our customers to be active partners in this
-						data-driven growing process, prioritizing farmer-consumer
-						transparency and eco-conscious cultivation.
+						We&apos;ve created an intelligent automated indoor grow system to
+						bring you deliciously fresh spinach all year long. Our organic
+						growing practices are grounded in data you can access and
+						trust&comma; as we adjust the growth conditions to produce the
+						perfect spinach from every seed. We empower our customers to be
+						active partners in this data-driven growing process, prioritizing
+						farmer-consumer transparency and eco-conscious cultivation.
 					</div>
 
 					<div className="flex space-x-8">
